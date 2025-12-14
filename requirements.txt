@@ -4,11 +4,3 @@ torch==2.9.1
 pydantic==2.12.5
 numpy
 
-
-✅ Why these packages are needed
-Package	Purpose
-fastapi	API framework
-uvicorn	ASGI server
-torch	ML model inference
-pydantic	Request/response validation
-numpy	Required by PyTorch
