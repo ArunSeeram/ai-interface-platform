@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## ML Component 
 
 A PyTorch bidirectional LSTM model for detecting fake news. Classifies news articles as **FAKE** or **REAL** with ~92-95% accuracy.
